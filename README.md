@@ -21,9 +21,16 @@ Everything I build and publish is 100% free. If any of my scripts, tools, or gui
 <summary><b>⚡ Crypto (Binance Pay / USDT) & 🇨🇴 Colombia (Local)</b></summary>
 <br>
 
-- **Binance Pay ID:** Envíame un mensaje si prefieres donar vía Binance Pay.
-- **USDT (BEP-20 / Polygon):** Disponible para transferencias cripto directas.
-- **🇨🇴 Colombia (Bre-B / Transfiya / Nequi):** Contáctame por DM en Reddit o Instagram para envío directo en COP.
+- **Binance Pay ID (0% fees):** `1111269376` *(Receiver: Jeremy Jaquet sEd2)*
+- **Binance Direct Link:** [Open in Binance App](https://app.binance.com/uni-qr/TBFvSGNT)
+<br>
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fapp.binance.com%2Funi-qr%2FTBFvSGNT" width="180" alt="Binance Pay QR"><br>
+  <sub>Scan with Binance App to donate (0% fees)</sub>
+</p>
+
+- **🇨🇴 Colombia (Bre-B / Transfiya / Nequi):** Contáctame por DM en Reddit o Instagram para transferencia directa en COP.
 
 </details>
 
